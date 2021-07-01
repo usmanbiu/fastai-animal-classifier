@@ -5,7 +5,7 @@ Data science project example using deep learning for image classification
 For this example project I built an animal classifier to identify Foxes, Wolves and Bears. This is useful in detecting wild animals in arears prone to animal attacks so as to serve as a warning system.
 ## Note
 you can also read up about the project on medium with the like below
-https://medium.com/@usman.a1282/image-classification-with-fastai-c23c38f77352
+https://medium.com/geekculture/image-classification-with-fastai-c23c38f77352
 
 ## Config
 I recommend using google colab for this project as it makes the gpu configuration far easier. In google colab make sure that you go to runtime -> change runtime type -> gpu. 
